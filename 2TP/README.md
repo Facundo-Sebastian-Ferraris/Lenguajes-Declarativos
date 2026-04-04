@@ -1,4 +1,4 @@
-## 📝 Práctico Nº 2
+# 📝 Práctico Nº 2
 **Temas principales:**
 *   🔄 **Tail Recursive** (Recursión a la cola)
 *   🔗 **Diferencia de Listas**
@@ -6,7 +6,7 @@
 
 ---
 
-### 🔄 Ejercicio 1: Optimización de Recursión
+## 🔄 Ejercicio 1: Optimización de Recursión
 Dar la versión **recursiva a la cola** (tail recursive) de los siguientes predicados:
 
 **(a) Suma de elementos:**
@@ -32,7 +32,7 @@ fib(N,R):-
 
 ---
 
-### 🔗 Ejercicio 2: Diferencia de Listas
+## 🔗 Ejercicio 2: Diferencia de Listas
 Considere la implementación de `append_dl` de una sola línea frente al `append` tradicional de dos líneas:
 
 *   **Implementación:** `append_dl(X-Y, Y-Z, X-Z).`
@@ -45,7 +45,7 @@ Considere la implementación de `append_dl` de una sola línea frente al `append
 
 ---
 
-### ⚙️ Ejercicio 3: Gramáticas DCG
+## ⚙️ Ejercicio 3: Gramáticas DCG
 Escriba una gramática e impleméntela con **DCG** para reconocer las siguientes cadenas:
 
 *   **(a)** $a^N c^N b^N$ (Debe devolver el valor de $N$).
@@ -59,12 +59,12 @@ Escriba una gramática e impleméntela con **DCG** para reconocer las siguientes
 
 ---
 
-### 🔃 Ejercicio 4: Inversión de Dígitos
+## 🔃 Ejercicio 4: Inversión de Dígitos
 Definir en Prolog una **DCG** que invierta una cadena de dígitos dada como entrada.
 
 ---
 
-### 🗣️ Ejercicio 5: Reconocimiento de Oraciones
+## 🗣️ Ejercicio 5: Reconocimiento de Oraciones
 Construir un programa en **DCG** que reconozca oraciones con la siguiente estructura:
 *   `Artículo` + `Sustantivo` + `Verbo` + `Modificador del verbo`.
 
@@ -80,7 +80,7 @@ Construir un programa en **DCG** que reconozca oraciones con la siguiente estruc
 
 ---
 
-### 📂 Ejercicio 6: Procesamiento de Archivos
+## 📂 Ejercicio 6: Procesamiento de Archivos
 Realizar un predicado en **DCG** para procesar texto:
 
 1.  **Entrada:** Un archivo con filas de números (1..5) y letras (a..f) separados por comas.
