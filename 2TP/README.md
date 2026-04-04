@@ -1,13 +1,3 @@
-Aquí tienes el contenido del **Práctico Nº 2** de **Lenguajes Declarativos (2026)**, convertido a formato Markdown con una estructura optimizada para su lectura y el uso de emojis temáticos:
-
----
-
-# 🏛️ Universidad Nacional del Comahue
-## 💻 Facultad de Informática
-### 📘 Lenguajes Declarativos 2026
-
----
-
 ## 📝 Práctico Nº 2
 **Temas principales:**
 *   🔄 **Tail Recursive** (Recursión a la cola)
