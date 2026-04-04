@@ -1,5 +1,5 @@
 ## 📝 Práctico Nº 2
-	**Temas principales:**
+**Temas principales:**
 *   🔄 **Tail Recursive** (Recursión a la cola)
 	*   🔗 **Diferencia de Listas**
 	*   ⚙️ **Definite Clause Grammars (D.C.G.)**
